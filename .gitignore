@@ -13,3 +13,7 @@ dongle-smartcontract/*_errors.txt
 .agents/
 skills-lock.json
 issue.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
